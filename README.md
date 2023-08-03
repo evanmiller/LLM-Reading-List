@@ -48,7 +48,8 @@ Quantization
 
 * [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339) - Quantization with outlier handling. Might be solving the wrong problem - see "Quantizable Transformers" below.
 * [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) - Another approach to quantization with outliers
-* [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://arxiv.org/abs/2109.12948)
+* [Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568) (Qualcomm 2020) - Introduces AdaRound
+* [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://arxiv.org/abs/2109.12948) (Qualcomm 2021)
 * [QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304) (Cornell Jul. 2023) - Introduces incoherence processing
 * [SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629) (Berkeley Jun. 2023)
 
