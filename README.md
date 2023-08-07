@@ -5,7 +5,8 @@ Transformer Architectures
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150) - Multi-Query Attention
 * [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
-* [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
+* [Augmenting Self-attention with Persistent Memory](https://arxiv.org/abs/1907.01470) (Meta 2019)
+* [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185) (Meta 2023)
 * [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
 
 Foundation Models
