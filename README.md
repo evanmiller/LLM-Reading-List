@@ -90,6 +90,12 @@ Scaling
 * [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102) (Google Nov. 2022) - Pipeline and tensor parallelization for inference
 * [Megatron-LM](https://arxiv.org/abs/1909.08053) (Nvidia Mar. 2020) - Intra-layer parallelism for training
 
+Mixture of Experts
+
+* [Adaptive Mixtures of Local Experts](https://github.com/mtotolo/nnetworks_HG/blob/master/Adaptive-mixtures-of-local-experts.pdf) (1991, remastered PDF)
+* [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) (Google 2017)
+* [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961) (Google 2022)
+
 Watermarking
 
 * [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
