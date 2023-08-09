@@ -23,7 +23,9 @@ Foundation Models
 Position Encoding
 
 * [Self-Attention with Relative Position Representations](https://arxiv.org/abs/1803.02155)
-* [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
+* [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864) - RoPE
+* [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/abs/2203.16634) - NoPE
+* [Rectified Rotary Position Embeddings](https://github.com/bojone/rerope) - ReRoPE
 
 KV Cache
 
