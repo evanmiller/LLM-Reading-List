@@ -55,6 +55,7 @@ Quantization
 * [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://arxiv.org/abs/2109.12948) (Qualcomm 2021)
 * [QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304) (Cornell Jul. 2023) - Introduces incoherence processing
 * [SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629) (Berkeley Jun. 2023)
+* [Intriguing Properties of Quantization at Scale](https://arxiv.org/abs/2305.19268) (Cohere May 2023)
 
 Normalization
 
