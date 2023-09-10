@@ -99,6 +99,7 @@ Mixture of Experts
 * [Adaptive Mixtures of Local Experts](https://github.com/mtotolo/nnetworks_HG/blob/master/Adaptive-mixtures-of-local-experts.pdf) (1991, remastered PDF)
 * [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) (Google 2017)
 * [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961) (Google 2022)
+* [Go Wider Instead of Deeper](https://arxiv.org/abs/2107.11817)
 
 Watermarking
 
