@@ -19,6 +19,7 @@ Foundation Models
 * [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
 * [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)
+* [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://github.com/state-spaces/mamba)
 
 Position Encoding
 
@@ -37,6 +38,7 @@ Activation
 
 * [Searching for Activation Functions](https://arxiv.org/abs/1710.05941)
 * [GLU Variants Improve Transformer](https://arxiv.org/abs/2002.05202)
+* [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://github.com/SJTU-IPADS/PowerInfer)
 
 Pruning
 
